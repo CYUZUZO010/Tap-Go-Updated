@@ -8,17 +8,17 @@ A complete RFID-based payment system with real-time card management, secure pass
 
 <div align="center">
 
-#  **[VIEW LIVE APPLICATION ](http://157.173.101.159:9208)**
+#  **[VIEW LIVE APPLICATION ](http://157.173.101.159:9108)**
 
-## **Frontend:** http://157.173.101.159:9208
+## **Frontend:** http://157.173.101.159:9108
 
-## **Backend API:** http://157.173.101.159:8208
+## **Backend API:** http://157.173.101.159:9213
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-success?style=for-the-badge&logo=google-chrome&logoColor=white&scale=2)](http://157.173.101.159:9208)
-[![Backend API](https://img.shields.io/badge/Backend%20API-Running-blue?style=for-the-badge&logo=fastapi&logoColor=white&scale=2)](http://157.173.101.159:8208)
-[![Status](https://img.shields.io/badge/Status-Deployed-brightgreen?style=for-the-badge&scale=2)](http://157.173.101.159:9208)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-success?style=for-the-badge&logo=google-chrome&logoColor=white&scale=2)](http://157.173.101.159:9108)
+[![Backend API](https://img.shields.io/badge/Backend%20API-Running-blue?style=for-the-badge&logo=fastapi&logoColor=white&scale=2)](http://157.173.101.159:9213)
+[![Status](https://img.shields.io/badge/Status-Deployed-brightgreen?style=for-the-badge&scale=2)](http://157.173.101.159:9108)
 
 <br>
 

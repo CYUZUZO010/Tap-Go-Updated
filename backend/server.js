@@ -19,8 +19,8 @@ const io = new Server(server, {
 app.use(cors());
 app.use(express.json());
 
-const PORT = 8208;
-const TEAM_ID = "team_rdf";
+const PORT = 9213;
+const TEAM_ID = "team010";
 const MQTT_BROKER = "mqtt://157.173.101.159:1883";
 const MONGO_URI = process.env.MONGODB_URI;
 
