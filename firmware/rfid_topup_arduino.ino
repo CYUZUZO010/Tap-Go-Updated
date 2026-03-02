@@ -5,7 +5,6 @@
 #include <ArduinoJson.h>
 #include <time.h>
 
-
 // ----------------- WiFi Configuration -----------------
 
 const char* ssid = "your-wifi";
