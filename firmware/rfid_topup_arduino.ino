@@ -17,6 +17,7 @@ const uint16_t MQTT_PORT = 1883;
 const char* team_id = "team_rdf";
 
 // ----------------- MQTT Topics -----------------
+
 String topic_status   = "rfid/" + String(team_id) + "/card/status";
 String topic_balance  = "rfid/" + String(team_id) + "/card/balance";
 String topic_topup    = "rfid/" + String(team_id) + "/card/topup";
