@@ -17,7 +17,6 @@ const io = new Server(server, {
 });
 
 app.use(cors());
-
 app.use(express.json());
 
 const PORT = 9213;
