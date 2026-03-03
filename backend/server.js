@@ -25,7 +25,7 @@ const TEAM_ID = "team010";
 const MQTT_BROKER = "mqtt://157.173.101.159:1883";
 const MONGO_URI = process.env.MONGODB_URI;
 
-// MongoDB Connection
+
 mongoose.connect(MONGO_URI)
   .then(() => console.log('Connected to MongoDB'))
   .catch(err => console.error('MongoDB connection error:', err));
