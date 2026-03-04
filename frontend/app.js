@@ -47,6 +47,7 @@ const checkoutBtn = document.getElementById('checkout-btn');
 const checkoutHint = document.getElementById('checkout-hint');
 const paymentStatusMsg = document.getElementById('payment-status-msg');
 
+
 // History elements
 const topupHistory = document.getElementById('topup-history');
 const purchaseHistory = document.getElementById('purchase-history');
