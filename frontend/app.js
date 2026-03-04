@@ -10,7 +10,7 @@ const cardVisual = document.getElementById('card-visual');
 const cardUidDisplay = document.getElementById('card-uid-display');
 const cardBalanceDisplay = document.getElementById('card-balance-display');
 
-// Role selection elements
+
 const roleOverlay = document.getElementById('role-selection-overlay');
 const roleCards = document.querySelectorAll('.role-card');
 
